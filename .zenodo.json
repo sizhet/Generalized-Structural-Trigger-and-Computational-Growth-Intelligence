@@ -1,0 +1,53 @@
+{
+"title": "Structural Recursive Self-Improvement: DBM-SI as a Rich Evaluator and Improvement Infrastructure",
+"description": "Structural Recursive Self-Improvement (SRSI) is a research framework for studying recursive improvement as a structured computational process rather than candidate generation alone. The framework centers on Rich Evaluators, Counter-Evidence, structural comparison, localization, verification, Structural Improvement Memory, and Improvement Governance. It introduces the Evaluator Bottleneck hypothesis, explores Two-Way CCC and Counter-Evidence Search as mechanisms for Anti-Goodhart recursive improvement, develops Localized RSI and recursive structural growth as alternatives to whole-system replacement, and maps existing DBM-SI mechanisms into one possible Rich Evaluator and improvement infrastructure. The project also proposes the AI-SI-RSI Gold Rush as a research hypothesis in which trustworthy machine-operable judgment, Structural Search, Evaluator Packs, and Improvement Runtimes may become increasingly important as AI candidate generation becomes more abundant.",
+"creators": [
+{
+"name": "Tan, Sizhe"
+}
+],
+"license": {
+"id": "Apache-2.0"
+},
+"upload_type": "publication",
+"publication_type": "other",
+"access_right": "open",
+"version": "1.0.0",
+"language": "eng",
+"keywords": [
+"Structural Recursive Self-Improvement",
+"SRSI",
+"Recursive Self-Improvement",
+"RSI",
+"Structural Intelligence",
+"DBM-SI",
+"Rich Evaluator",
+"Evaluator Bottleneck",
+"Evaluator Richness",
+"Evaluator Plane",
+"Counter-Evidence",
+"Counter-Evidence Search",
+"Anti-Goodhart RSI",
+"Two-Way CCC",
+"Structural A/B",
+"Localized RSI",
+"Per-Node Intelligence",
+"Structural Growth",
+"Structural Search",
+"Structural Folding",
+"Improvement Memory",
+"Improvement Governance",
+"Evaluator Engineering",
+"AI-SI-RSI",
+"AI Safety",
+"AI Governance",
+"Artificial Intelligence"
+],
+"related_identifiers": [
+{
+"identifier": "https://github.com/sizhet/Structural-Recursive-Self-Improvement",
+"relation": "isSupplementTo",
+"scheme": "url"
+}
+]
+}
