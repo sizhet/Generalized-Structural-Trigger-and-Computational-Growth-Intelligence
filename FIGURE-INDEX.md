@@ -281,7 +281,7 @@ Generalized Structural Trigger
 Recommended Markdown:
 
 ```markdown
-![Fig-002 — DNA to Generalized Structural Trigger](../figures/Fig-002-DNA-to-Generalized-Structural-Trigger.png)
+![Fig-002 — DNA to Generalized Structural Trigger](figures/Fig-002-DNA-to-Generalized-Structural-Trigger.png)
 
 *Fig. 2 — Trigger generalization. String DNA remains an efficient structural encoding, but the trigger abstraction expands toward comparable, structural, behavioral, evidence-bearing, and policy-aware objects.*
 ```
@@ -375,7 +375,7 @@ Detailed discussion of each component
 Recommended Markdown:
 
 ```markdown
-![Fig-003 — Generalized Trigger Evidence Policy Model](../figures/Fig-003-Generalized-Trigger-Evidence-Policy-Model.png)
+![Fig-003 — Generalized Trigger Evidence Policy Model](figures/Fig-003-Generalized-Trigger-Evidence-Policy-Model.png)
 
 *Fig. 3 — Canonical GST model. Structural state, comparison semantics, controlled behavior, evidence APIs, and policy perspective form a governed local structural-intelligence interface.*
 ```
@@ -395,7 +395,7 @@ after the initial case architecture and before the Performance / Safety / Cost p
 Use:
 
 ```markdown
-![Fig-003 — Generalized Trigger Evidence Policy Model](../figures/Fig-003-Generalized-Trigger-Evidence-Policy-Model.png)
+![Fig-003 — Generalized Trigger Evidence Policy Model](figures/Fig-003-Generalized-Trigger-Evidence-Policy-Model.png)
 
 *Fig. 3 — A Generalized Structural Trigger separates domain intelligence from runtime structural authority while exposing state, comparison, behavior, evidence, and policy semantics.*
 ```
@@ -459,7 +459,7 @@ Insert after the generalized Two-Way CCC architecture has been established and b
 Recommended Markdown:
 
 ```markdown
-![Fig-004 — Two-Way CCC and Leaf Resolution Gate](../figures/Fig-004-Two-Way-CCC-and-Leaf-Resolution-Gate.png)
+![Fig-004 — Two-Way CCC and Leaf Resolution Gate](figures/Fig-004-Two-Way-CCC-and-Leaf-Resolution-Gate.png)
 
 *Fig. 4 — A generalized Two-Way CCC performs local structural discrimination, while the Leaf Resolution Gate separately determines whether the resulting leaf should decide, refine, preserve a Leftover, or delegate.*
 ```
@@ -561,7 +561,7 @@ and the explanation of the Sandbox Compiler.
 Recommended Markdown:
 
 ```markdown
-![Fig-005 — Leaf Sandbox Package and Delegated Unfolding](../figures/Fig-005-Leaf-Sandbox-Package-and-Delegated-Unfolding.png)
+![Fig-005 — Leaf Sandbox Package and Delegated Unfolding](figures/Fig-005-Leaf-Sandbox-Package-and-Delegated-Unfolding.png)
 
 *Fig. 5 — Delegated Structural Unfolding. An internal leaf is transformed through policy projection, capability reduction, evidence packaging, and resource bounding into an LSP that can be safely handed to an external intelligence.*
 ```
@@ -587,7 +587,7 @@ and before the detailed LSP field walkthrough.
 Recommended Markdown:
 
 ```markdown
-![Fig-005 — Leaf Sandbox Package and Delegated Unfolding](../figures/Fig-005-Leaf-Sandbox-Package-and-Delegated-Unfolding.png)
+![Fig-005 — Leaf Sandbox Package and Delegated Unfolding](figures/Fig-005-Leaf-Sandbox-Package-and-Delegated-Unfolding.png)
 
 *Fig. 5 — CASE-002 delegation path: a decision-insufficient but computation-sufficient leaf is converted into a capability-bounded sandbox package for external specialist computation.*
 ```
@@ -679,7 +679,7 @@ Candidate Difference and Promotion
 Recommended Markdown:
 
 ```markdown
-![Fig-006 — Leftover Delta and Structural Growth Loop](../figures/Fig-006-Leftover-Delta-and-Structural-Growth-Loop.png)
+![Fig-006 — Leftover Delta and Structural Growth Loop](figures/Fig-006-Leftover-Delta-and-Structural-Growth-Loop.png)
 
 *Fig. 6 — Structural growth loop. Explicit Leftovers preserve unresolved structural information, enabling Delta Intelligence to discover candidate differences, validate them through evidence and counter-evidence, and promote mature new structure under policy.*
 ```
@@ -769,7 +769,7 @@ Insert immediately after introducing the four-level AI Growth Ladder and before 
 Recommended Markdown:
 
 ```markdown
-![Fig-007 — AI Growth Ladder](../figures/Fig-007-AI-Growth-Ladder.png)
+![Fig-007 — AI Growth Ladder](figures/Fig-007-AI-Growth-Ladder.png)
 
 *Fig. 7 — AI Growth Ladder. AI growth progresses from accumulating experience and improving performance toward changing reusable computational structures and eventually the computational systems through which multiple intelligences cooperate.*
 ```
@@ -901,7 +901,7 @@ Insert after the six canonical exchange objects and the initial definition of th
 Recommended Markdown:
 
 ```markdown
-![Fig-008 — AI Computational Ecosystem](../figures/Fig-008-AI-Computational-Ecosystem.png)
+![Fig-008 — AI Computational Ecosystem](figures/Fig-008-AI-Computational-Ecosystem.png)
 
 *Fig. 8 — AI Computational Ecosystem. Multiple intelligent systems exchange bounded structure, evidence, capability, policy, results, and candidate Deltas while preserving local structural sovereignty and governed promotion authority.*
 ```
@@ -921,7 +921,7 @@ Insert after the initial AI-A → AI-B → AI-A exchange is established and befo
 Recommended Markdown:
 
 ```markdown
-![Fig-008 — AI Computational Ecosystem](../figures/Fig-008-AI-Computational-Ecosystem.png)
+![Fig-008 — AI Computational Ecosystem](figures/Fig-008-AI-Computational-Ecosystem.png)
 
 *Fig. 8 — CASE-003 system-level view. Repeated validated structural exchanges can become reusable delegation edges and eventually part of an AI Computational CallingGraph.*
 ```
@@ -1624,3 +1624,4 @@ Fig-008-AI-Computational-Ecosystem.png
 **GST-CGI — Generalized Structural Trigger and Computational Growth Intelligence**
 
 **Canonical Figure Index — Version 1.0**
+
