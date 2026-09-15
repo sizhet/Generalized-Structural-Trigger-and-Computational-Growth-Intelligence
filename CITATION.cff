@@ -1,72 +1,61 @@
 cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
 
-message: >-
-  If you use, discuss, or build upon this work, please cite the
-  Structural Recursive Self-Improvement (SRSI) project.
+title: "Generalized Structural Trigger and Computational Growth Intelligence"
 
-title: >-
-  Structural Recursive Self-Improvement:
-  DBM-SI as a Rich Evaluator and Improvement Infrastructure
+version: "1.0.0"
+
+date-released: "2026-09-15"
 
 type: software
 
 authors:
-  - family-names: Tan
-    given-names: Sizhe
-
-version: 1.0.0
-
-date-released: 2026-09-14
-
-repository-code: "https://github.com/sizhet/Structural-Recursive-Self-Improvement"
-
-url: "https://github.com/sizhet/Structural-Recursive-Self-Improvement"
-
-license: Apache-2.0
-
-doi: 10.5281/zenodo.22758483
+  - family-names: "Tan"
+    given-names: "Sizhe"
 
 abstract: >-
-  Structural Recursive Self-Improvement (SRSI) is a research framework
-  for studying recursive improvement as a structured computational process
-  rather than candidate generation alone. The framework centers on Rich
-  Evaluators, Counter-Evidence, structural comparison, localization,
-  verification, Structural Improvement Memory, and Improvement Governance.
-  It introduces the Evaluator Bottleneck hypothesis, explores Two-Way CCC
-  and Counter-Evidence Search as mechanisms for Anti-Goodhart recursive
-  improvement, develops Localized RSI and recursive structural growth as
-  alternatives to whole-system replacement, and maps existing DBM-SI
-  mechanisms into one possible Rich Evaluator and improvement
-  infrastructure. The project also proposes the AI-SI-RSI Gold Rush as a
-  research hypothesis in which trustworthy machine-operable judgment,
-  Structural Search, Evaluator Packs, and Improvement Runtimes may become
-  increasingly important as AI candidate generation becomes more abundant.
+  Generalized Structural Trigger and Computational Growth Intelligence
+  (GST-CGI) presents a structural-intelligence framework that extends
+  Two-Way CCC beyond String-DNA-only trigger representations toward
+  generalized structural triggers with explicit structural state,
+  comparison semantics, controlled behavior, evidence APIs, and
+  policy perspectives. The framework introduces the Leaf Resolution
+  Gate with DECIDE, REFINE, LEFTOVER, and DELEGATE outcomes; treats
+  Leftover as a first-class structural boundary and input to Delta
+  Intelligence; introduces the Leaf Sandbox Package and Delegated
+  Structural Unfolding for policy-bounded external computation; and
+  develops Computational Growth Intelligence as the capability to
+  construct, refine, validate, delegate, compose, and govern the
+  computational structures through which future intelligence is
+  performed. The framework further distinguishes Experience Growth,
+  Performance Growth, Computational-Structure Growth, and
+  Computational-System Growth, and extends these ideas toward
+  policy-governed AI computational ecosystems.
 
 keywords:
-  - Structural Recursive Self-Improvement
-  - SRSI
-  - Recursive Self-Improvement
-  - RSI
-  - Structural Intelligence
-  - DBM-SI
-  - Rich Evaluator
-  - Evaluator Bottleneck
-  - Evaluator Richness
-  - Evaluator Plane
-  - Counter-Evidence
-  - Counter-Evidence Search
-  - Anti-Goodhart RSI
-  - Two-Way CCC
-  - Structural A/B
-  - Localized RSI
-  - Per-Node Intelligence
-  - Structural Growth
-  - Structural Search
-  - Structural Folding
-  - Improvement Memory
-  - Improvement Governance
-  - Evaluator Engineering
-  - AI-SI-RSI
-  - AI Safety
-  - AI Governance
-  - Artificial Intelligence
+  - "Generalized Structural Trigger"
+  - "GST"
+  - "Computational Growth Intelligence"
+  - "CGI"
+  - "Structural Intelligence"
+  - "Two-Way CCC"
+  - "Leaf Resolution Gate"
+  - "Decision Sufficiency"
+  - "Leftover"
+  - "Delta Intelligence"
+  - "Structural Growth"
+  - "Computational-Structure Growth"
+  - "Computational-System Growth"
+  - "Leaf Sandbox Package"
+  - "Delegated Structural Unfolding"
+  - "Evidence API"
+  - "Counter-Evidence"
+  - "Policy-Governed AI"
+  - "AI Computational Ecosystem"
+  - "Structural Collective Learning"
+
+license: "Apache-2.0"
+
+repository-code: "https://github.com/sizhet/Generalized-Structural-Trigger-and-Computational-Growth-Intelligence"
+
+url: "https://github.com/sizhet/Generalized-Structural-Trigger-and-Computational-Growth-Intelligence"
