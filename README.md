@@ -134,6 +134,10 @@ At the highest level:
 
 ---
 
+![Fig-001-GST-CGI-Grand-Map.png](figures/Fig-001-GST-CGI-Grand-Map.png)
+
+---
+
 # 3. Why Generalize the Trigger?
 
 Earlier Two-Way CCC demonstrations often use String DNA because it provides:

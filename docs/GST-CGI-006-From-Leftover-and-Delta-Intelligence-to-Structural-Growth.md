@@ -326,6 +326,10 @@ The key question is:
 
 ---
 
+![Fig-006-Leftover-Delta-and-Structural-Growth-Loop.png](../figures/Fig-006-Leftover-Delta-and-Structural-Growth-Loop.png)
+
+---
+
 # 7. Experience Growth vs Delta Discovery
 
 Accumulating more experience is not the same as discovering structure.

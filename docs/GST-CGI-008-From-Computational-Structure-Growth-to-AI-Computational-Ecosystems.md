@@ -1328,6 +1328,10 @@ This demonstrates how far Computational-System Growth extends beyond ordinary mo
 
 ---
 
+![Fig-008-AI-Computational-Ecosystem.png](../figures/Fig-008-AI-Computational-Ecosystem.png)
+
+---
+
 # 39. UTN and Ecosystem Identity
 
 As structural packages move across systems, identity becomes critical.

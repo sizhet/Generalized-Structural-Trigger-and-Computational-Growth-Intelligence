@@ -686,6 +686,10 @@ This is the canonical **GST-CGI AI Growth Ladder**.
 
 ---
 
+![Fig-007-AI-Growth-Ladder.png](../figures/Fig-007-AI-Growth-Ladder.png)
+
+---
+
 # 19. Four Questions
 
 Each level answers a different question.

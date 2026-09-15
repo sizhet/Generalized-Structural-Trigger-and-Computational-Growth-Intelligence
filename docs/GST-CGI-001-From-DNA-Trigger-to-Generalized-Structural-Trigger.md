@@ -218,6 +218,10 @@ This is substantially broader than ordinary key comparison.
 
 ---
 
+![Fig-002-DNA-to-Generalized-Structural-Trigger.png](../figures/Fig-002-DNA-to-Generalized-Structural-Trigger.png)
+
+---
+
 # 4. The Generalized Structural Trigger
 
 We define a **Generalized Structural Trigger (GST)** as:

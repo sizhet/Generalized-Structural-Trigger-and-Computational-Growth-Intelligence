@@ -190,6 +190,10 @@ These dimensions form the foundation of a governable behavioral trigger.
 
 ---
 
+![Fig-003-Generalized-Trigger-Evidence-Policy-Model.png](../figures/Fig-003-Generalized-Trigger-Evidence-Policy-Model.png)
+
+---
+
 # 3. Structural State
 
 The first component is the structural state.

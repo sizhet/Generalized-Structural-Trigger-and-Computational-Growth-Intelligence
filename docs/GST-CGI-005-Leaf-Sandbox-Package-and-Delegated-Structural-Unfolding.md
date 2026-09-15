@@ -751,6 +751,10 @@ It does not automatically gain access to the parent world.
 
 ---
 
+![Fig-005-Leaf-Sandbox-Package-and-Delegated-Unfolding.png](../figures/Fig-005-Leaf-Sandbox-Package-and-Delegated-Unfolding.png)
+
+---
+
 # 15. A Local Computational World
 
 This suggests a useful interpretation:

@@ -359,6 +359,10 @@ Every leaf resolution should terminate in one explicit runtime outcome.
 
 ---
 
+![Fig-004-Two-Way-CCC-and-Leaf-Resolution-Gate.png](../figures/Fig-004-Two-Way-CCC-and-Leaf-Resolution-Gate.png)
+
+---
+
 # 7. Outcome 1 — DECIDE
 
 `DECIDE` means:
