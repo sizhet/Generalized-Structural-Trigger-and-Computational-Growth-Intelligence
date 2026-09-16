@@ -48,7 +48,7 @@ Generalized-Structural-Trigger-and-Computational-Growth-Intelligence/
 ├── CHANGELOG.md
 ├── CITATION.cff
 ├── .zenodo.json
-├── LICENSE
+├── LICENSE.txt
 └── GitHub-Release-Notes-v1.0.0.md
 ```
 
@@ -1280,7 +1280,7 @@ Zenodo publication metadata.
 
 ---
 
-## LICENSE
+## LICENSE.txt
 
 Repository license.
 

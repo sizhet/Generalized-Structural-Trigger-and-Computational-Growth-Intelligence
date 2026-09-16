@@ -58,6 +58,10 @@ The result is a broader algorithmic interpretation:
 
 ---
 
+![Fig-004-Two-Way-CCC-and-Leaf-Resolution-Gate.png](../figures/Fig-004-Two-Way-CCC-and-Leaf-Resolution-Gate.png)
+
+---
+
 # 1. Revisiting Two-Way CCC
 
 A minimal Two-Way CCC demonstration may appear as:
