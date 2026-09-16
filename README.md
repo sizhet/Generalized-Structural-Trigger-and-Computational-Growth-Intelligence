@@ -1986,13 +1986,6 @@ Generalized-Structural-Trigger-and-Computational-Growth-Intelligence/
 │   ├── Fig-007-AI-Growth-Ladder.png
 │   └── Fig-008-AI-Computational-Ecosystem.png
 │
-├── demo/
-│   ├── README.md
-│   └── java/
-│       └── com/
-│           └── dbm/
-│               └── gstcgi/
-│
 ├── CHANGELOG.md
 ├── CITATION.cff
 ├── .zenodo.json

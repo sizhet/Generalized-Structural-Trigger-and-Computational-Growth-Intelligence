@@ -45,13 +45,6 @@ Generalized-Structural-Trigger-and-Computational-Growth-Intelligence/
 │   ├── Fig-007-AI-Growth-Ladder.png
 │   └── Fig-008-AI-Computational-Ecosystem.png
 │
-├── demo/
-│   ├── README.md
-│   └── java/
-│       └── com/
-│           └── dbm/
-│               └── gstcgi/
-│
 ├── CHANGELOG.md
 ├── CITATION.cff
 ├── .zenodo.json
@@ -1267,88 +1260,7 @@ is the integrated Grand Map.
 
 ---
 
-# 9. Demo Area
-
-## demo/README.md
-
-**Purpose**
-
-Implementation guide for the GST-CGI runtime demonstrations.
-
-Planned implementation focus:
-
-```text
-GeneralizedStructuralTrigger
-
-EvidenceBundle
-
-PolicyPerspective
-
-TwoWayCCC
-
-LeafResolutionGate
-
-LeafSandboxPackage
-
-DelegatedResult
-
-CandidateDelta
-
-StructuralPromotionGate
-```
-
----
-
-## demo/java/com/dbm/gstcgi/
-
-**Purpose**
-
-Java 8 reference demonstrations.
-
-The demo layer is intended to remain:
-
-```text
-Small
-
-API-First
-
-Auditable
-
-JUnit4-Friendly
-
-Structurally Explicit
-```
-
-rather than attempting to implement a full autonomous AI runtime.
-
----
-
-# 10. Suggested Demo Progression
-
-A future canonical implementation sequence is:
-
-```text
-DEMO-001
-Generalized Trigger + Policy Perspective
-        ↓
-DEMO-002
-Two-Way CCC + Leaf Resolution
-        ↓
-DEMO-003
-Leaf Sandbox Package + Delegated Result
-        ↓
-DEMO-004
-Leftover + Candidate Delta + Promotion
-        ↓
-DEMO-005
-AI-to-AI Structural Exchange
-```
-
-This mirrors the conceptual article progression.
-
----
-
-# 11. Metadata and Release Files
+# 9. Metadata and Release Files
 
 ## CHANGELOG.md
 
@@ -1404,7 +1316,7 @@ AI Computational Ecosystem
 
 ---
 
-# 12. Recommended Reading Paths
+# 10. Recommended Reading Paths
 
 ## 10-Minute Path
 
@@ -1462,8 +1374,6 @@ GST-CGI-005
 CASE-001
  ↓
 CASE-002
- ↓
-demo/
 ```
 
 Best for runtime and API-oriented readers.
@@ -1506,7 +1416,7 @@ Best for AI-to-AI structural computation and system-of-systems growth.
 
 ---
 
-# 13. Concept-to-Document Map
+# 11. Concept-to-Document Map
 
 | Concept                                      | Primary Document  |
 | -------------------------------------------- | ----------------- |
@@ -1534,7 +1444,7 @@ Best for AI-to-AI structural computation and system-of-systems growth.
 
 ---
 
-# 14. Concept-to-Figure Map
+# 12. Concept-to-Figure Map
 
 | Concept                       | Figure  |
 | ----------------------------- | ------- |
@@ -1549,7 +1459,7 @@ Best for AI-to-AI structural computation and system-of-systems growth.
 
 ---
 
-# 15. Article-to-Case Map
+# 13. Article-to-Case Map
 
 ```text
 GST-CGI-001
@@ -1585,7 +1495,7 @@ The cases therefore act as practical consolidation points for the article series
 
 ---
 
-# 16. Repository Conceptual Spine
+# 14. Repository Conceptual Spine
 
 The entire repository can be compressed into:
 
@@ -1620,7 +1530,7 @@ THE COMPUTATIONAL SYSTEM
 
 ---
 
-# 17. Canonical Terminology
+# 15. Canonical Terminology
 
 Use the following short forms consistently:
 
@@ -1663,7 +1573,7 @@ GLOSSARY.md
 
 ---
 
-# 18. Canonical Runtime Path
+# 16. Canonical Runtime Path
 
 ```text
 Object / Task
@@ -1731,7 +1641,7 @@ Computational Growth
 
 ---
 
-# 19. Canonical Growth Path
+# 17. Canonical Growth Path
 
 ```text
 Experience
@@ -1771,7 +1681,7 @@ AI Computational Ecosystem
 
 ---
 
-# 20. Canonical AI Growth Ladder
+# 18. Canonical AI Growth Ladder
 
 ```text
 LEVEL 1
@@ -1805,7 +1715,7 @@ The two axes should not be conflated.
 
 ---
 
-# 21. Canonical AI-to-AI Exchange
+# 19. Canonical AI-to-AI Exchange
 
 ```text
 AI-A
@@ -1843,7 +1753,7 @@ DELTA
 
 ---
 
-# 22. Canonical Governance Boundary
+# 20. Canonical Governance Boundary
 
 ```text
 External Intelligence
@@ -1875,7 +1785,7 @@ The governing principle is:
 
 ---
 
-# 23. Canonical Project Principles
+# 21. Canonical Project Principles
 
 The repository repeatedly uses the following principles:
 
@@ -1901,7 +1811,7 @@ The repository repeatedly uses the following principles:
 
 ---
 
-# 24. Suggested First Visit
+# 22. Suggested First Visit
 
 For a first visit to the repository:
 
@@ -1933,7 +1843,7 @@ AI Computational Ecosystem
 
 ---
 
-# 25. Suggested Deep Reading
+# 23. Suggested Deep Reading
 
 For a complete reading:
 
@@ -1971,7 +1881,7 @@ This follows the research argument from local trigger generalization to system-l
 
 ---
 
-# 26. One-Screen Repository Map
+# 24. One-Screen Repository Map
 
 ```text
 FOUNDATION
@@ -2006,15 +1916,9 @@ Supported visually by:
 Fig-001 ... Fig-008
 ```
 
-and operationally by:
-
-```text
-demo/
-```
-
 ---
 
-# 27. Final Navigation Summary
+# 25. Final Navigation Summary
 
 If you want to understand:
 
@@ -2106,7 +2010,7 @@ CASE-003
 
 ---
 
-# 28. Project
+# 26. Project
 
 **Generalized Structural Trigger and Computational Growth Intelligence — GST-CGI**
 
